@@ -1,0 +1,10 @@
+{
+  "packageName": "in.hydrogen.firstlight",
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "minSdk": 28,
+  "bytes": 255207312,
+  "sha256": "07b98b1009801f3e3374606d2fb6b387220fb1b9b896d25287359b09da34b532",
+  "url": "https://github.com/vikramdhochak/Hydrogen-updates/releases/download/v1.0.2/HYDROGEN-1.0.2.apk",
+  "notes": "Adds in-app update checks, verified downloads and Android-confirmed installation. Includes the compact Android landscape layout. Login and offline progress are preserved."
+}
